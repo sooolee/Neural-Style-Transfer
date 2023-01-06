@@ -6,4 +6,4 @@ I used a photo I took in Roussillon in France as the content image. For the styl
 
 After about 2500 epochs with a learning rate of 0.01, the following output was resulted. 
 
-![summary](https://github.com/sooolee/neural-style-transfer/blob/main/Neural-Style-Transfer-Outcome.png)
+![summary](https://github.com/sooolee/neural-style-transfer/blob/main/summary-image.png)
